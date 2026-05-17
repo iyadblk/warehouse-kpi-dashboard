@@ -76,8 +76,7 @@ python data/generator.py
 
 ## 🌐 Live Demo
 
-<!-- Replace once deployed -->
-> Coming soon — deploy on [Streamlit Community Cloud](https://streamlit.io/cloud) and drop the URL here.
+https://warehouse-kpi-dashboard.streamlit.app/
 
 ## 📁 Project structure
 
