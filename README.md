@@ -11,7 +11,7 @@ Interactive web dashboard that simulates a live logistics warehouse and surfaces
 
 ## 📸 Screenshot
 
-[Dashboard](docs/screenshot.png)
+![screenshot](docs/screenshot.png)
 
 ## ✨ Features
 
